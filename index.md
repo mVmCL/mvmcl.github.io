@@ -35,5 +35,5 @@ Current Projects and Interests
 >> codepen.io<br>
 >> freecodecamp.org<br>
 >> buildspace.so<br>
->>> Web Hosting<br>
+>>> ___Web Hosting___<br>
 >>Hostgrid.com<br>
