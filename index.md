@@ -4,6 +4,10 @@ In yet another attempt to familiarize myself with as many web/app dev experience
 
 ### Web links
 [Web Portfolio](https://www.breakingchains.heiwigo.com)
+[Shopify](https://www.penstocktem.com)
+[This site](mvmcl.github.io)
+[Google Domain active-schedule](https://www.active-schedule.com)
+
 
 ```markdown
 Current Projects and Interests
