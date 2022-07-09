@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my "Github Pages" public space
 
-You can use the [editor on GitHub](https://github.com/mVmCL/mvmcl.github.io/edit/Main/index.md) to maintain and preview the content for your website in Markdown files.
+In yet another attempt to familiarize myself with as many web/app dev experiences as possible, I have made a public space provided by Github where I will continue to further my knowledge and experience in the software engineering space. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Web links
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
