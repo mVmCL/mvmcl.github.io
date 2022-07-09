@@ -4,9 +4,9 @@ In yet another attempt to familiarize myself with as many web/app dev experience
 
 ### Web links
 [Web Portfolio](https://www.breakingchains.heiwigo.com)<br>
-[Shopify](https://www.penstocktem.com)
-[This site](mvmcl.github.io)
-[Google Domain active-schedule](https://www.active-schedule.com)
+[Shopify](https://www.penstocktem.com)<br>
+[This site](mvmcl.github.io)<br>
+[Google Domain active-schedule](https://www.active-schedule.com)<br>
 
 
 ```markdown
