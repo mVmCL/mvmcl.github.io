@@ -7,7 +7,8 @@ In yet another attempt to familiarize myself with as many web/app dev experience
 [Shopify](https://www.penstocktem.com)<br>
 [This site](mvmcl.github.io)<br>
 [Google Domain active-schedule](https://www.active-schedule.com)<br>
-
+[Rinkeby Testnet Connection](https://www.haddit.heiwigo.com)
+[Admin Control Center Boilerplate Application Code - arbitrary data used](https://www.heiwigo.com)
 
 ```markdown
 Current Projects and Interests
