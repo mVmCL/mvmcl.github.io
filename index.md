@@ -10,6 +10,8 @@ www.active-schedule.com<br>
 [Rinkeby Testnet Connection](https://www.haddit.heiwigo.com)
 [Admin Control Center Boilerplate Application Code - arbitrary data used](https://www.heiwigo.com)<br>
 [Buildspace App Builds/Account](https://buildspace.so/@mvmclx)<br>
+[Linkedin](https://www.linkedin.in/mvmclx)<br>
+[Twitter](https://www.twitter.com/_i__mVmClX__OyE)<br>
 
 
 ```markdown
