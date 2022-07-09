@@ -28,3 +28,11 @@ Current Projects and Interests
 
 
 ```
+
+
+## Resources
+>> https://www.oreilly.com/
+>> codepen.io
+>> freecodecamp.org
+>> buildspace.so
+>> 
