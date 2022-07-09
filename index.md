@@ -31,8 +31,9 @@ Current Projects and Interests
 
 
 ## Resources
->> https://www.oreilly.com/
->> codepen.io
->> freecodecamp.org
->> buildspace.so
->> 
+>> https://www.oreilly.com/<br>
+>> codepen.io<br>
+>> freecodecamp.org<br>
+>> buildspace.so<br>
+>>> Web Hosting<br>
+>>Hostgrid.com<br>
