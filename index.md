@@ -6,7 +6,7 @@ In yet another attempt to familiarize myself with as many web/app dev experience
 [Web Portfolio](https://www.breakingchains.heiwigo.com)<br>
 [Shopify](https://www.penstocktem.com)<br>
 [This site](mvmcl.github.io)<br>
-<a href="www.active-schedule.com">www.active-schedule.com</a><br>
+[Google Domain [active-schedule.com](www.active-schedule.com)
 [Rinkeby Testnet Connection](https://www.haddit.heiwigo.com)
 [Admin Control Center Boilerplate Application Code - arbitrary data used](https://www.heiwigo.com)<br>
 [Buildspace App Builds/Account](https://buildspace.so/@mvmclx)<br>
